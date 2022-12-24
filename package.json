@@ -7,7 +7,9 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
-    "vue": "^3.2.13"
+    "axios": "^1.2.1",
+    "vue": "^3.2.13",
+    "vue-axios": "^3.5.2"
   },
   "devDependencies": {
     "@vue/cli-service": "~5.0.0"
